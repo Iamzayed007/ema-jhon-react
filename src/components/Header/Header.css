@@ -1,0 +1,33 @@
+.header{
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+.logo{
+    height: 50px;
+    
+}
+
+.header nav{
+    background-color: black;
+   line-height: 40px;
+}
+.search-box{
+    margin-top: 20px;
+    width: 80%;
+    height: 30px;
+}
+.header nav a {
+   
+   padding: 5px;
+    margin-right: 20px;
+    margin-bottom: 3px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.header nav a:hover{
+    color: teal;
+    background-color: thistle;
+}
